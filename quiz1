@@ -1,1 +1,23 @@
-create a user 
+create user john richard joey
+
+create a group named testers
+
+john and joey password is redhat
+
+richard dont have bash access
+
+create a parent folder named  testers
+
+make the testers folder owned by user richard and group testers
+
+make the folder that it will not be accessed by other users and group
+
+make a copy of the /etc inside the richard home folder with the name of etc
+
+get the ip address of vm1 and vm2
+
+swap the ip address of the vm and set it to static connection with the name of swap-connections
+
+create a empty file name {a-c}file{1-10}
+
+copy only files that start with b and all even numbers to richard's homw directory
