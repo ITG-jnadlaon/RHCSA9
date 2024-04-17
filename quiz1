@@ -25,3 +25,6 @@ copy only files that start with b and all even numbers to richard's home directo
 make sure that your system is subscribed 
 
 install the following packages: httpd
+
+make a folder inside john home directory named sample in sample folder make a file.txt
+make a group sample group and john and richard must be member of the group. ensure that richard has read write access and john has write and execute access. 
