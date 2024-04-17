@@ -20,4 +20,8 @@ swap the ip address of the vm and set it to static connection with the name of s
 
 create a empty file name {a-c}file{1-10}
 
-copy only files that start with b and all even numbers to richard's homw directory
+copy only files that start with b and all even numbers to richard's home directory
+
+make sure that your system is subscribed 
+
+install the following packages: httpd
